@@ -248,5 +248,3 @@ SELECT * FROM top_five_genres;
 
 -- 8c. You find that you no longer need the view top_five_genres. Write a query to delete it.
 DROP VIEW top_five_genres;
-
-DROP VIEW genre_gross_revenue
