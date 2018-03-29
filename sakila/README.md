@@ -34,5 +34,8 @@ Once you’re in the sakila-db directory and have `mysql` running, run the follo
 
 Open MySQL Workbench, refresh your list of databases under the *SCHEMAS* header, and you should see the **sakila** DB:
 
-You can open the sakila_queries.sql script in this folder to see what type of analysis is done and execute the queries.
+You can open the ![sakila_queries.sql](sakila_queries.sql) script to see what type of analysis is done and execute the queries.
+
+You can also open the ![sakila_queries.md](sakila_queries.md) markdown file to view the analysis.
+
 
